@@ -16,7 +16,7 @@ int main()
 						if(top==n-1)
 					{
 						cout << "overflow";
-						brearrayk;
+						break;
 		 			} 
 					else if(top== -1)
 					{
