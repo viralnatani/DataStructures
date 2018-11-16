@@ -39,7 +39,7 @@ int main()
 					{
 						if(top==-1)
 					{
-						cout << "starrayck is empty.";
+						cout << "stack is empty.";
 		 			} 
 					else
 					{
